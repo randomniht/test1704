@@ -18,3 +18,4 @@ def list_add_last(l,empt):
     print(empt)
 
 list_add_last(l,empt)
+# first task
